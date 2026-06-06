@@ -38,11 +38,6 @@ body {
     transition: 0.2s;
 }
 
-.link-gh {
-    background-color: black;
-    padding: 5px;
-}
-
 .link-header:hover {
     border-bottom: 2px solid skyblue;
 }
