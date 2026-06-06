@@ -1,0 +1,567 @@
+.background-color-aliceblue {
+    background-color: aliceblue;
+}
+
+.background-color-antiquewhite {
+    background-color: antiquewhite;
+}
+
+.background-color-aqua {
+    background-color: aqua;
+}
+
+.background-color-aquamarine {
+    background-color: aquamarine;
+}
+
+.background-color-azure {
+    background-color: azure;
+}
+
+.background-color-beige {
+    background-color: beige;
+}
+
+.background-color-bisque {
+    background-color: bisque;
+}
+
+.background-color-black {
+    background-color: black;
+}
+
+.background-color-blanchedalmond {
+    background-color: blanchedalmond;
+}
+
+.background-color-blue {
+    background-color: blue;
+}
+
+.background-color-blueviolet {
+    background-color: blueviolet;
+}
+
+.background-color-brown {
+    background-color: brown;
+}
+
+.background-color-burlywood {
+    background-color: burlywood;
+}
+
+.background-color-cadetblue {
+    background-color: cadetblue;
+}
+
+.background-color-chartreuse {
+    background-color: chartreuse;
+}
+
+.background-color-chocolate {
+    background-color: chocolate;
+}
+
+.background-color-coral {
+    background-color: coral;
+}
+
+.background-color-cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.background-color-cornsilk {
+    background-color: cornsilk;
+}
+
+.background-color-crimson {
+    background-color: crimson;
+}
+
+.background-color-cyan {
+    background-color: cyan;
+}
+
+.background-color-darkblue {
+    background-color: darkblue;
+}
+
+.background-color-darkcyan {
+    background-color: darkcyan;
+}
+
+.background-color-darkgoldenrod {
+    background-color: darkgoldenrod;
+}
+
+.background-color-darkgray {
+    background-color: darkgray;
+}
+
+.background-color-darkgrey {
+    background-color: darkgrey;
+}
+
+.background-color-darkgreen {
+    background-color: darkgreen;
+}
+
+.background-color-darkkhaki {
+    background-color: darkkhaki;
+}
+
+.background-color-darkmagenta {
+    background-color: darkmagenta;
+}
+
+.background-color-darkolivegreen {
+    background-color: darkolivegreen;
+}
+
+.background-color-darkorange {
+    background-color: darkorange;
+}
+
+.background-color-darkorchid {
+    background-color: darkorchid;
+}
+
+.background-color-darkred {
+    background-color: darkred;
+}
+
+.background-color-darksalmon {
+    background-color: darksalmon;
+}
+
+.background-color-darkseagreen {
+    background-color: darkseagreen;
+}
+
+.background-color-darkslateblue {
+    background-color: darkslateblue;
+}
+
+.background-color-darkslategray {
+    background-color: darkslategray;
+}
+
+.background-color-darkslategrey {
+    background-color: darkslategrey;
+}
+
+.background-color-darkturquoise {
+    background-color: darkturquoise;
+}
+
+.background-color-darkviolet {
+    background-color: darkviolet;
+}
+
+.background-color-deeppink {
+    background-color: deeppink;
+}
+
+.background-color-deepskyblue {
+    background-color: deepskyblue;
+}
+
+.background-color-dimgray {
+    background-color: dimgray;
+}
+
+.background-color-dimgrey {
+    background-color: dimgrey;
+}
+
+.background-color-dodgerblue {
+    background-color: dodgerblue;
+}
+
+.background-color-firebrick {
+    background-color: firebrick;
+}
+
+.background-color-floralwhite {
+    background-color: floralwhite;
+}
+
+.background-color-forestgreen {
+    background-color: forestgreen;
+}
+
+.background-color-fuchsia {
+    background-color: fuchsia;
+}
+
+.background-color-gainsboro {
+    background-color: gainsboro;
+}
+
+.background-color-ghostwhite {
+    background-color: ghostwhite;
+}
+
+.background-color-gold {
+    background-color: gold;
+}
+
+.background-color-goldenrod {
+    background-color: goldenrod;
+}
+
+.background-color-gray {
+    background-color: gray;
+}
+
+.background-color-green {
+    background-color: green;
+}
+
+.background-color-honeydew {
+    background-color: honeydew;
+}
+
+.background-color-hotpink {
+    background-color: hotpink;
+}
+
+.background-color-indianred {
+    background-color: indianred;
+}
+
+.background-color-indigo {
+    background-color: indigo;
+}
+
+.background-color-ivory {
+    background-color: ivory;
+}
+
+.background-color-khaki {
+    background-color: khaki;
+}
+
+.background-color-lavender {
+    background-color: lavender;
+}
+
+.background-color-lavenderblush {
+    background-color: lavenderblush;
+}
+
+.background-color-lawngreen {
+    background-color: lawngreen;
+}
+
+.background-color-lemonchiffon {
+    background-color: lemonchiffon;
+}
+
+.background-color-lightblue {
+    background-color: lightblue;
+}
+
+.background-color-lightcoral {
+    background-color: lightcoral;
+}
+
+.background-color-lightcyan {
+    background-color: lightcyan;
+}
+
+.background-color-lightgoldenrodyellow {
+    background-color: lightgoldenrodyellow;
+}
+
+.background-color-lightgray {
+    background-color: lightgray;
+}
+
+.background-color-lightgrey {
+    background-color: lightgrey;
+}
+
+.background-color-lightgreen {
+    background-color: lightgreen;
+}
+
+.background-color-lightpink {
+    background-color: lightpink;
+}
+
+.background-color-lightsalmon {
+    background-color: lightsalmon;
+}
+
+.background-color-lightseagreen {
+    background-color: lightseagreen;
+}
+
+.background-color-lightskyblue {
+    background-color: lightskyblue;
+}
+
+.background-color-lightslategray {
+    background-color: lightslategray;
+}
+
+.background-color-lightslategrey {
+    background-color: lightslategrey;
+}
+
+.background-color-lightsteelblue {
+    background-color: lightsteelblue;
+}
+
+.background-color-lightyellow {
+    background-color: lightyellow;
+}
+
+.background-color-lime {
+    background-color: lime;
+}
+
+.background-color-limegreen {
+    background-color: limegreen;
+}
+
+.background-color-linen {
+    background-color: linen;
+}
+
+.background-color-magenta {
+    background-color: magenta;
+}
+
+.background-color-maroon {
+    background-color: maroon;
+}
+
+.background-color-mediumaquamarine {
+    background-color: mediumaquamarine;
+}
+
+.background-color-mediumblue {
+    background-color: mediumblue;
+}
+
+.background-color-mediumorchid {
+    background-color: mediumorchid;
+}
+
+.background-color-mediumpurple {
+    background-color: mediumpurple;
+}
+
+.background-color-mediumseagreen {
+    background-color: mediumseagreen;
+}
+
+.background-color-mediumturquoise {
+    background-color: mediumturquoise;
+}
+
+.background-color-mediumvioletred {
+    background-color: mediumvioletred;
+}
+
+.background-color-midnightblue {
+    background-color: midnightblue;
+}
+
+.background-color-mintcream {
+    background-color: mintcream;
+}
+
+.background-color-mistyrose {
+    background-color: mistyrose;
+}
+
+.background-color-moccasin {
+    background-color: moccasin;
+}
+
+.background-color-navajowhite {
+    background-color: navajowhite;
+}
+
+.background-color-navy {
+    background-color: navy;
+}
+
+.background-color-oldlace {
+    background-color: oldlace;
+}
+
+.background-color-olive {
+    background-color: olive;
+}
+
+.background-color-olivedrab {
+    background-color: olivedrab;
+}
+
+.background-color-orange {
+    background-color: orange;
+}
+
+.background-color-orangered {
+    background-color: orangered;
+}
+
+.background-color-orchid {
+    background-color: orchid;
+}
+
+.background-color-palegoldenrod {
+    background-color: palegoldenrod;
+}
+
+.background-color-palegreen {
+    background-color: palegreen;
+}
+
+.background-color-paleturquoise {
+    background-color: paleturquoise;
+}
+
+.background-color-palevioletred {
+    background-color: palevioletred;
+}
+
+.background-color-papayawhip {
+    background-color: papayawhip;
+}
+
+.background-color-peachpuff {
+    background-color: peachpuff;
+}
+
+.background-color-peru {
+    background-color: peru;
+}
+
+.background-color-pink {
+    background-color: pink;
+}
+
+.background-color-plum {
+    background-color: plum;
+}
+
+.background-color-powderblue {
+    background-color: powderblue;
+}
+
+.background-color-purple {
+    background-color: purple;
+}
+
+.background-color-rebeccapurple {
+    background-color: rebeccapurple;
+}
+
+.background-color-red {
+    background-color: red;
+}
+
+.background-color-rosybrown {
+    background-color: rosybrown;
+}
+
+.background-color-royalblue {
+    background-color: royalblue;
+}
+
+.background-color-saddlebrown {
+    background-color: saddlebrown;
+}
+
+.background-color-salmon {
+    background-color: salmon;
+}
+
+.background-color-sandybrown {
+    background-color: sandybrown;
+}
+
+.background-color-seagreen {
+    background-color: seagreen;
+}
+
+.background-color-seashell {
+    background-color: seashell;
+}
+
+.background-color-sienna {
+    background-color: sienna;
+}
+
+.background-color-silver {
+    background-color: silver;
+}
+
+.background-color-skyblue {
+    background-color: skyblue;
+}
+
+.background-color-slateblue {
+    background-color: slateblue;
+}
+
+.background-color-slategray {
+    background-color: slategray;
+}
+
+.background-color-slategrey {
+    background-color: slategrey;
+}
+
+.background-color-snow {
+    background-color: snow;
+}
+
+.background-color-springgreen {
+    background-color: springgreen;
+}
+
+.background-color-steelblue {
+    background-color: steelblue;
+}
+
+.background-color-tan {
+    background-color: tan;
+}
+
+.background-color-teal {
+    background-color: teal;
+}
+
+.background-color-thistle {
+    background-color: thistle;
+}
+
+.background-color-tomato {
+    background-color: tomato;
+}
+
+.background-color-turquoise {
+    background-color: turquoise;
+}
+
+.background-color-violet {
+    background-color: violet;
+}
+
+.background-color-white {
+    background-color: white;
+}
+
+.background-color-whitesmoke {
+    background-color: whitesmoke;
+}
+
+.background-color-yellow {
+    background-color: yellow;
+}
