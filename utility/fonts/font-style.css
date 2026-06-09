@@ -1,11 +1,11 @@
-.font-style-italic {
+.fsi {
     font-style: italic;
 }
 
-.font-style-normal {
+.fsn {
     font-style: normal;
 }
 
-.font-style-oblique {
+.fso {
     font-style: oblique;
 }

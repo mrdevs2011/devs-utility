@@ -1,35 +1,35 @@
-.text-decoration-dashed {
+.td-dashed {
     text-decoration: dashed;
 }
 
-.text-decoration-dotted {
+.td-dotted {
     text-decoration: dotted;
 }
 
-.text-decoration-double {
+.td-double {
     text-decoration: double;
 }
 
-.text-decoration-line-through {
+.td-lt {
     text-decoration: line-through;
 }
 
-.text-decoration-none {
+.td-none {
     text-decoration: none;
 }
 
-.text-decoration-overline {
+.td-overline {
     text-decoration: overline;
 }
 
-.text-decoration-solid {
+.td-solid {
     text-decoration: solid;
 }
 
-.text-decoration-underline {
+.td-underline {
     text-decoration: underline;
 }
 
-.text-decoration-wavy {
+.td-wavy {
     text-decoration: wavy;
 }

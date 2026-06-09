@@ -20,16 +20,16 @@
 @import url(./utility/margin/margin-right.css);
 @import url(./utility/margin/margin-top.css);
 
-@import url(./utility/border/general/general-border-solid-black.css);
-@import url(./utility/border/general/general-border-solid-white.css);
-@import url(./utility/border/top/border-top-solid-black.css);
-@import url(./utility/border/top/border-top-solid-white.css);
-@import url(./utility/border/right/border-right-solid-black.css);
-@import url(./utility/border/right/border-right-solid-white.css);
-@import url(./utility/border/bottom/border-bottom-solid-black.css);
-@import url(./utility/border/bottom/border-bottom-solid-white.css);
-@import url(./utility/border/left/border-left-solid-black.css);
-@import url(./utility/border/left/border-left-solid-white.css);
+@import url(./utility/border/general/general-border-sb.css);
+@import url(./utility/border/general/general-border-sw.css);
+@import url(./utility/border/top/border-top-sb.css);
+@import url(./utility/border/top/border-top-sw.css);
+@import url(./utility/border/right/border-right-sb.css);
+@import url(./utility/border/right/border-right-sw.css);
+@import url(./utility/border/bottom/border-bottom-sb.css);
+@import url(./utility/border/bottom/border-bottom-sw.css);
+@import url(./utility/border/left/border-left-sb.css);
+@import url(./utility/border/left/border-left-sw.css);
 
 @import url(./utility/border-radius/border-bottom-left-radius.css);
 @import url(./utility/border-radius/border-bottom-right-radius.css);

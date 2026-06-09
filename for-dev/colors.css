@@ -1,8 +1,8 @@
-.color-important {
+.c-important {
     border-bottom: 2px solid skyblue;
 }
 
-.background-color-important {
+.bg-important {
     border-bottom: 2px solid skyblue;
 }
 
@@ -208,7 +208,7 @@
     border-radius: 3px;
 }
 
-.brown {
+.brrown {
     margin-left: 5px;
 
     margin-top: 6px;

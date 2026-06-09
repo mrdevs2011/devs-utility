@@ -1,563 +1,563 @@
-.color-aliceblue {
+.c-aliceblue {
     color: aliceblue;
 }
 
-.color-antiquewhite {
+.c-antiquewhite {
     color: antiquewhite;
 }
 
-.color-aqua {
+.c-aqua {
     color: aqua;
 }
 
-.color-aquamarine {
+.c-aquamarine {
     color: aquamarine;
 }
 
-.color-azure {
+.c-azure {
     color: azure;
 }
 
-.color-beige {
+.c-beige {
     color: beige;
 }
 
-.color-bisque {
+.c-bisque {
     color: bisque;
 }
 
-.color-black {
+.c-black {
     color: black;
 }
 
-.color-blanchedalmond {
+.c-blanchedalmond {
     color: blanchedalmond;
 }
 
-.color-blue {
+.c-blue {
     color: blue;
 }
 
-.color-blueviolet {
+.c-blueviolet {
     color: blueviolet;
 }
 
-.color-brown {
+.c-brown {
     color: brown;
 }
 
-.color-burlywood {
+.c-burlywood {
     color: burlywood;
 }
 
-.color-cadetblue {
+.c-cadetblue {
     color: cadetblue;
 }
 
-.color-chartreuse {
+.c-chartreuse {
     color: chartreuse;
 }
 
-.color-chocolate {
+.c-chocolate {
     color: chocolate;
 }
 
-.color-coral {
+.c-coral {
     color: coral;
 }
 
-.color-cornflowerblue {
+.c-cornflowerblue {
     color: cornflowerblue;
 }
 
-.color-cornsilk {
+.c-cornsilk {
     color: cornsilk;
 }
 
-.color-crimson {
+.c-crimson {
     color: crimson;
 }
 
-.color-cyan {
+.c-cyan {
     color: cyan;
 }
 
-.color-darkblue {
+.c-darkblue {
     color: darkblue;
 }
 
-.color-darkcyan {
+.c-darkcyan {
     color: darkcyan;
 }
 
-.color-darkgoldenrod {
+.c-darkgoldenrod {
     color: darkgoldenrod;
 }
 
-.color-darkgray {
+.c-darkgray {
     color: darkgray;
 }
 
-.color-darkgrey {
+.c-darkgrey {
     color: darkgrey;
 }
 
-.color-darkgreen {
+.c-darkgreen {
     color: darkgreen;
 }
 
-.color-darkkhaki {
+.c-darkkhaki {
     color: darkkhaki;
 }
 
-.color-darkmagenta {
+.c-darkmagenta {
     color: darkmagenta;
 }
 
-.color-darkolivegreen {
+.c-darkolivegreen {
     color: darkolivegreen;
 }
 
-.color-darkorange {
+.c-darkorange {
     color: darkorange;
 }
 
-.color-darkorchid {
+.c-darkorchid {
     color: darkorchid;
 }
 
-.color-darkred {
+.c-darkred {
     color: darkred;
 }
 
-.color-darksalmon {
+.c-darksalmon {
     color: darksalmon;
 }
 
-.color-darkseagreen {
+.c-darkseagreen {
     color: darkseagreen;
 }
 
-.color-darkslateblue {
+.c-darkslateblue {
     color: darkslateblue;
 }
 
-.color-darkslategray {
+.c-darkslategray {
     color: darkslategray;
 }
 
-.color-darkslategrey {
+.c-darkslategrey {
     color: darkslategrey;
 }
 
-.color-darkturquoise {
+.c-darkturquoise {
     color: darkturquoise;
 }
 
-.color-darkviolet {
+.c-darkviolet {
     color: darkviolet;
 }
 
-.color-deeppink {
+.c-deeppink {
     color: deeppink;
 }
 
-.color-deepskyblue {
+.c-deepskyblue {
     color: deepskyblue;
 }
 
-.color-dimgray {
+.c-dimgray {
     color: dimgray;
 }
 
-.color-dimgrey {
+.c-dimgrey {
     color: dimgrey;
 }
 
-.color-dodgerblue {
+.c-dodgerblue {
     color: dodgerblue;
 }
 
-.color-firebrick {
+.c-firebrick {
     color: firebrick;
 }
 
-.color-floralwhite {
+.c-floralwhite {
     color: floralwhite;
 }
 
-.color-forestgreen {
+.c-forestgreen {
     color: forestgreen;
 }
 
-.color-fuchsia {
+.c-fuchsia {
     color: fuchsia;
 }
 
-.color-gainsboro {
+.c-gainsboro {
     color: gainsboro;
 }
 
-.color-ghostwhite {
+.c-ghostwhite {
     color: ghostwhite;
 }
 
-.color-gold {
+.c-gold {
     color: gold;
 }
 
-.color-goldenrod {
+.c-goldenrod {
     color: goldenrod;
 }
 
-.color-gray {
+.c-gray {
     color: gray;
 }
 
-.color-honeydew {
+.c-honeydew {
     color: honeydew;
 }
 
-.color-hotpink {
+.c-hotpink {
     color: hotpink;
 }
 
-.color-indianred {
+.c-indianred {
     color: indianred;
 }
 
-.color-indigo {
+.c-indigo {
     color: indigo;
 }
 
-.color-ivory {
+.c-ivory {
     color: ivory;
 }
 
-.color-khaki {
+.c-khaki {
     color: khaki;
 }
 
-.color-lavender {
+.c-lavender {
     color: lavender;
 }
 
-.color-lavenderblush {
+.c-lavenderblush {
     color: lavenderblush;
 }
 
-.color-lawngreen {
+.c-lawngreen {
     color: lawngreen;
 }
 
-.color-lemonchiffon {
+.c-lemonchiffon {
     color: lemonchiffon;
 }
 
-.color-lightblue {
+.c-lightblue {
     color: lightblue;
 }
 
-.color-lightcoral {
+.c-lightcoral {
     color: lightcoral;
 }
 
-.color-lightcyan {
+.c-lightcyan {
     color: lightcyan;
 }
 
-.color-lightgoldenrodyellow {
+.c-lightgoldenrodyellow {
     color: lightgoldenrodyellow;
 }
 
-.color-lightgray {
+.c-lightgray {
     color: lightgray;
 }
 
-.color-lightgrey {
+.c-lightgrey {
     color: lightgrey;
 }
 
-.color-lightgreen {
+.c-lightgreen {
     color: lightgreen;
 }
 
-.color-lightpink {
+.c-lightpink {
     color: lightpink;
 }
 
-.color-lightsalmon {
+.c-lightsalmon {
     color: lightsalmon;
 }
 
-.color-lightseagreen {
+.c-lightseagreen {
     color: lightseagreen;
 }
 
-.color-lightskyblue {
+.c-lightskyblue {
     color: lightskyblue;
 }
 
-.color-lightslategray {
+.c-lightslategray {
     color: lightslategray;
 }
 
-.color-lightslategrey {
+.c-lightslategrey {
     color: lightslategrey;
 }
 
-.color-lightsteelblue {
+.c-lightsteelblue {
     color: lightsteelblue;
 }
 
-.color-lightyellow {
+.c-lightyellow {
     color: lightyellow;
 }
 
-.color-lime {
+.c-lime {
     color: lime;
 }
 
-.color-limegreen {
+.c-limegreen {
     color: limegreen;
 }
 
-.color-linen {
+.c-linen {
     color: linen;
 }
 
-.color-magenta {
+.c-magenta {
     color: magenta;
 }
 
-.color-maroon {
+.c-maroon {
     color: maroon;
 }
 
-.color-mediumaquamarine {
+.c-mediumaquamarine {
     color: mediumaquamarine;
 }
 
-.color-mediumblue {
+.c-mediumblue {
     color: mediumblue;
 }
 
-.color-mediumorchid {
+.c-mediumorchid {
     color: mediumorchid;
 }
 
-.color-mediumpurple {
+.c-mediumpurple {
     color: mediumpurple;
 }
 
-.color-mediumseagreen {
+.c-mediumseagreen {
     color: mediumseagreen;
 }
 
-.color-mediumturquoise {
+.c-mediumturquoise {
     color: mediumturquoise;
 }
 
-.color-mediumvioletred {
+.c-mediumvioletred {
     color: mediumvioletred;
 }
 
-.color-midnightblue {
+.c-midnightblue {
     color: midnightblue;
 }
 
-.color-mintcream {
+.c-mintcream {
     color: mintcream;
 }
 
-.color-mistyrose {
+.c-mistyrose {
     color: mistyrose;
 }
 
-.color-moccasin {
+.c-moccasin {
     color: moccasin;
 }
 
-.color-navajowhite {
+.c-navajowhite {
     color: navajowhite;
 }
 
-.color-navy {
+.c-navy {
     color: navy;
 }
 
-.color-oldlace {
+.c-oldlace {
     color: oldlace;
 }
 
-.color-olive {
+.c-olive {
     color: olive;
 }
 
-.color-olivedrab {
+.c-olivedrab {
     color: olivedrab;
 }
 
-.color-orange {
+.c-orange {
     color: orange;
 }
 
-.color-orangered {
+.c-orangered {
     color: orangered;
 }
 
-.color-orchid {
+.c-orchid {
     color: orchid;
 }
 
-.color-palegoldenrod {
+.c-palegoldenrod {
     color: palegoldenrod;
 }
 
-.color-palegreen {
+.c-palegreen {
     color: palegreen;
 }
 
-.color-paleturquoise {
+.c-paleturquoise {
     color: paleturquoise;
 }
 
-.color-palevioletred {
+.c-palevioletred {
     color: palevioletred;
 }
 
-.color-papayawhip {
+.c-papayawhip {
     color: papayawhip;
 }
 
-.color-peachpuff {
+.c-peachpuff {
     color: peachpuff;
 }
 
-.color-peru {
+.c-peru {
     color: peru;
 }
 
-.color-pink {
+.c-pink {
     color: pink;
 }
 
-.color-plum {
+.c-plum {
     color: plum;
 }
 
-.color-powderblue {
+.c-powderblue {
     color: powderblue;
 }
 
-.color-purple {
+.c-purple {
     color: purple;
 }
 
-.color-rebeccapurple {
+.c-rebeccapurple {
     color: rebeccapurple;
 }
 
-.color-red {
+.c-red {
     color: red;
 }
 
-.color-rosybrown {
+.c-rosybrown {
     color: rosybrown;
 }
 
-.color-royalblue {
+.c-royalblue {
     color: royalblue;
 }
 
-.color-saddlebrown {
+.c-saddlebrown {
     color: saddlebrown;
 }
 
-.color-salmon {
+.c-salmon {
     color: salmon;
 }
 
-.color-sandybrown {
+.c-sandybrown {
     color: sandybrown;
 }
 
-.color-seagreen {
+.c-seagreen {
     color: seagreen;
 }
 
-.color-seashell {
+.c-seashell {
     color: seashell;
 }
 
-.color-sienna {
+.c-sienna {
     color: sienna;
 }
 
-.color-silver {
+.c-silver {
     color: silver;
 }
 
-.color-skyblue {
+.c-skyblue {
     color: skyblue;
 }
 
-.color-slateblue {
+.c-slateblue {
     color: slateblue;
 }
 
-.color-slategray {
+.c-slategray {
     color: slategray;
 }
 
-.color-slategrey {
+.c-slategrey {
     color: slategrey;
 }
 
-.color-snow {
+.c-snow {
     color: snow;
 }
 
-.color-springgreen {
+.c-springgreen {
     color: springgreen;
 }
 
-.color-steelblue {
+.c-steelblue {
     color: steelblue;
 }
 
-.color-tan {
+.c-tan {
     color: tan;
 }
 
-.color-teal {
+.c-teal {
     color: teal;
 }
 
-.color-thistle {
+.c-thistle {
     color: thistle;
 }
 
-.color-tomato {
+.c-tomato {
     color: tomato;
 }
 
-.color-turquoise {
+.c-turquoise {
     color: turquoise;
 }
 
-.color-violet {
+.c-violet {
     color: violet;
 }
 
-.color-white {
+.c-white {
     color: white;
 }
 
-.color-whitesmoke {
+.c-whitesmoke {
     color: whitesmoke;
 }
 
-.color-yellow {
+.c-yellow {
     color: yellow;
 }
